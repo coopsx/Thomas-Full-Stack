@@ -10,7 +10,7 @@
 }
 
 /*----------Headings----------*/
-#Home {
+.home {
     background-color: purple;
     font-style: italic;
     text-align: center;
