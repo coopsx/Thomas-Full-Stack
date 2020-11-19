@@ -1,3 +1,54 @@
-#footer {
-    margin-bottom:0"
+.header {
+    background-color: #3500d3;
+    padding: 1%;
+    text-align: center;
+    color: white;
 }
+
+.nav {
+    background-color: RGB(102,78,158);
+}
+
+/*----------Headings----------*/
+#Home {
+    background-color: purple;
+    font-style: italic;
+    text-align: center;
+    padding: 1%;
+}
+
+
+.column {
+  float: left;
+  padding: 10px;
+ 
+}
+
+.left {
+  width: 25%;
+  background-color: RGB(184,115,222);
+  padding: 1%;
+
+}
+
+.right {
+  width: 75%;
+  background-color: RGB(218,190,237);
+  padding: 1%
+}
+
+.footer {
+    padding: 1%;
+    text-align: center;
+    color: #f8f8ff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #240090;
+}
+
+
+
+  
+  
