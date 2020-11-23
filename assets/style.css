@@ -17,6 +17,18 @@
     padding: 1%;
 }
 
+.about {
+    background-color: red;
+    font-style: italic;
+    text-align: center;
+    padding: 1%;
+}
+.contact {
+    background-color: orange;
+    font-style: italic;
+    text-align: center;
+    padding: 1%;
+}
 
 .column {
   float: left;
@@ -49,6 +61,12 @@
     background-color: #240090;
 }
 /*----------Content----------*/
+.logo a i{
+
+height:200px;
+width: 200px;
+
+}
 
 
 /*----------Form----------*/
