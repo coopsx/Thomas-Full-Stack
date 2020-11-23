@@ -28,6 +28,7 @@
   width: 25%;
   background-color: RGB(184,115,222);
   padding: 1%;
+  text-align: center;
 
 }
 
@@ -47,7 +48,21 @@
     width: 100%;
     background-color: #240090;
 }
+/*----------Content----------*/
 
+}
+
+
+/*----------Form----------*/
+#form {
+   text-align: center;
+   box-sizing: border-box;
+   padding: 1%;
+   background-color: purple;
+   width: auto;
+   height: 100px;
+
+}
 
 
   
